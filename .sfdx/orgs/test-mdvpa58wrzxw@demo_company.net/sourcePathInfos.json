@@ -1,218 +1,218 @@
 [
     [
-        "D:\\git\\geolocation\\force-app",
+        "d:\\git\\geolocation\\force-app",
         {
-            "state": "n",
-            "sourcePath": "D:\\git\\geolocation\\force-app",
+            "sourcePath": "d:\\git\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513161755150,
             "changeTime": 1513161755150,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main",
+        "d:\\git\\geolocation\\force-app\\main",
         {
-            "state": "n",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513161755150,
             "changeTime": 1513161755150,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default",
+        "d:\\git\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354515,
             "changeTime": 1513162354515,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\aura",
+        "d:\\git\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\aura",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513161755150,
             "changeTime": 1513161755150,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "D:\\git\\geolocation",
+        "d:\\git\\geolocation",
         {
-            "state": "n",
-            "sourcePath": "D:\\git\\geolocation",
+            "sourcePath": "d:\\git\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513161789952,
             "changeTime": 1513161789952,
             "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1513162354489,
             "changeTime": 1513162354489,
-            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836"
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1513162354497,
             "changeTime": 1513162354497,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1513162354504,
             "changeTime": 1513162354504,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1513162354509,
             "changeTime": 1513162354509,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1513162354513,
             "changeTime": 1513162354513,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        "d:\\git\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 524,
             "modifiedTime": 1513162354515,
             "changeTime": 1513162354515,
-            "contentHash": "5c9449552e227b940d72cdbd5ef8f676ddb87540"
+            "contentHash": "5c9449552e227b940d72cdbd5ef8f676ddb87540",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354488,
             "changeTime": 1513162354488,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account",
+        "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354487,
             "changeTime": 1513162354487,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\objects",
+        "d:\\git\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\objects",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354487,
             "changeTime": 1513162354487,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\layouts",
+        "d:\\git\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\layouts",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354513,
             "changeTime": 1513162354513,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "D:\\git\\geolocation\\force-app\\main\\default\\permissionsets",
+        "d:\\git\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
-            "sourcePath": "D:\\git\\geolocation\\force-app\\main\\default\\permissionsets",
+            "sourcePath": "d:\\git\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1513162354515,
             "changeTime": 1513162354515,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
