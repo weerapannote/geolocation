@@ -18,6 +18,7 @@
             var account = accounts[i];
             var latLng = [account.Location__Latitude__s, account.Location__Longitude__s];
             L.marker(latLng, {account: account}).addTo(map);
-        }  
+        }
+        
     }
 })
